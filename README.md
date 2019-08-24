@@ -15,4 +15,4 @@ When complete, you'll be able to grab random quotes from the command line, like 
 ## Start the Tutorial
 
 You can find your next step in [this repo's issues](../../issues/)!
-ok let's get started, shall we? yes, why not?
+ok let's get started, shall we? yes, why not? this is gonna quick lesson. fasten your seatbelt.
