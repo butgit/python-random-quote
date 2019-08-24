@@ -6,9 +6,12 @@ def primary():
   f.close()
 
   last = len(quotes) - 1
-  rnd = random.randint(0, last)
 
-  print(quotes[rnd])
+  out = ''
+  for x in range(5):
+    rnd = random.randint(0, last)    
+    out += quotes[rnd].rstrip()
+  print(out)
 
 if __name__== "__main__":
   primary()
